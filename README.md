@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Mariusz Sabath, and I am a Senior Software Engineer in IBM T.J. Watson Research Center.
+
+My research interests are system management and distributed, scalable environments in Hybrid Cloud.
+My current focus is security, identity, and secret management in Kubernetes environments.
+
+More about me at [https://mrsabath.github.io](https://mrsabath.github.io)
 
 <!--
 **mrsabath/mrsabath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
