@@ -6,6 +6,9 @@ My current focus is security, identity, and secret management in Kubernetes envi
 
 More about me at [https://mrsabath.github.io](https://mrsabath.github.io)
 
+---
+<img align="left" alt="Mariusz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrsabath&show_icons=true&hide_border=true" />
+
 <!--
 **mrsabath/mrsabath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
