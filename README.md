@@ -1,8 +1,10 @@
 ### Hi there 👋
-My name is Mariusz Sabath, and I am a Senior Software Engineer in IBM T.J. Watson Research Center.
+My name is Mariusz Sabath, and I am a Senior Technical Staff Member (STSM) in Hybrid Cloud at IBM T.J. Watson Research Center.
 
 My research interests are system management and distributed, scalable environments in Hybrid Cloud.
-My current focus is security, identity, and secret management in Kubernetes environments.
+- 🔭 I’m currently working on workload identity in hybrid and multi-cloud scenarios for Cloud Native environments
+- 🌱 I’m currently learning about attestation and chain-of-trust
+- 👯 I’m looking to collaborate on Zero-trust in context of identity in Cloud Native
 
 More about me at [https://mrsabath.github.io](https://mrsabath.github.io)
 
