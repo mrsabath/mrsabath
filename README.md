@@ -41,6 +41,7 @@ The agent holds cryptographic identity. The user holds delegated authorization. 
 | [rossoctl/cortex](https://github.com/rossoctl/cortex) | Creator & Maintainer | Data plane that mediates agent actions — admission webhook, AuthBridge, client registration |
 | [rossoctl/operator](https://github.com/rossoctl/operator) | Maintainer | Kubernetes operator for deploying and managing the lifecycle of Agents and Tools |
 | [rossoctl/examples](https://github.com/rossoctl/examples) | Creator & Maintainer | Reference agent implementations and demo tools |
+| [rossoctl/.github](https://github.com/rossoctl/.github) | Creator & Maintainer | Project website and org-level community health files — [rossoctl.dev](https://www.rossoctl.dev/) |
 | [spiffe/tornjak](https://github.com/spiffe/tornjak) | Co-creator & Maintainer | SPIRE management UI and API layer (CNCF) |
 | [Kuadrant/mcp-gateway](https://github.com/Kuadrant/mcp-gateway) | Contributor | Envoy-based MCP Gateway with Istio and policy attachment integration |
 
