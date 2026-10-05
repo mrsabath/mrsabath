@@ -67,10 +67,7 @@ The agent holds cryptographic identity. The user holds delegated authorization. 
 ## GitHub Activity
 
 <a href="https://github.com/mrsabath">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsabath&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats for mrsabath" height="170" />
-</a>
-<a href="https://github.com/mrsabath">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsabath&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsabath&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats for mrsabath" height="170" />
 </a>
 
 ---
